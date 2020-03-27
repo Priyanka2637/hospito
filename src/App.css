@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.Login {
+  width: 46%;
+  margin: auto;
+  margin-top: 6rem;
+  background: #009cad;
+  padding: 3rem;
+}
+.login-footer {
+  display: flex;
+  padding-top: 2rem;
+  width: 100%;
+}
+.ChatBox{
+  width: 90%;
+  margin: auto;
+  margin-top: 3rem;
+  padding: 3rem;
+}
+.Registration {
+  width: 46%;
+  margin: auto;
+  margin-top: 6rem;
+  background:#f03e1e;
+  padding: 3rem;
+}
+
+
+
+
+
+
